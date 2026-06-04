@@ -6,9 +6,9 @@ Welcome to my Python portfolio. This repository showcases my ability to analyze 
 
 ## 📁 Projects
 
-Project Name | [🍕 Pizza Sales Analysis](https://github.com/PortiaNtsele/Python_Projects/tree/main/projects/pizza_sales) 
-Description  | End-to-end Python analytics project featuring EDA, statistical analysis, market basket analysis, time series decomposition, forecasting, and business insights. 
-Tools        | Python, Pandas, Matplotlib, Seaborn, Statsmodels 
+|Project Name | [🍕 Pizza Sales Analysis](https://github.com/PortiaNtsele/Python_Projects/tree/main/projects/pizza_sales) |
+|Description  | End-to-end Python analytics project featuring EDA, statistical analysis, market basket analysis, time series decomposition, forecasting, and business insights.| 
+|Tools        | Python, Pandas, Matplotlib, Seaborn, Statsmodels|
 
 
 Includes:
