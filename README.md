@@ -4,39 +4,22 @@ Welcome to my Python portfolio. This repository showcases my ability to analyze 
 
 ---
 
-## 🔍 About This Repository
-
-This portfolio contains a collection of Python-based data analysis projects focused on solving real business problems.
-
-Each project demonstrates:
-
-- Data exploration and schema understanding  
-- Data cleaning and transformation  
-- Data merging and aggregation  
-- Exploratory Data Analysis (EDA)  
-- Statistical analysis and correlation  
-- Time series decomposition and forecasting  
-- Market basket analysis  
-- Analytical thinking and insight generation  
-- Business storytelling using data  
-
----
-
-## 🛠️ Tools & Technologies
-
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels)  
-- **Jupyter Notebook / Google Colab**  
-- **Public datasets**  
-
----
-
 ## 📁 Projects
 
 ### 🍕 Pizza Sales Analysis
 
-👉 [View Project](./pizza_sales)
+👉 [Pizza Sales Analysis](./pizza_sales/)
 
-An end-to-end Python data analytics project that analyzes pizza sales performance, customer purchasing behaviour, and revenue trends. The project includes data preparation, exploratory data analysis (EDA), statistical analysis, forecasting, and business insights using Pandas, Matplotlib, Seaborn, and Statsmodels.
+An end-to-end Python data analytics project that analyzes pizza sales performance, customer behaviour, and revenue trends.
+
+Includes:
+- Data cleaning & merging
+- Exploratory Data Analysis (EDA)
+- KPI development
+- Time series analysis
+- Forecasting
+- Market basket analysis
+- Streamlit dashboard
 
 ---
 
@@ -46,16 +29,26 @@ Details will be added when the project is completed.
 
 ---
 
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Statsmodels
+- Jupyter Notebook
+
+---
+
 ## 🎯 Repository Goal
 
-This repository showcases my Python data analytics projects and my ability to transform raw data into actionable business insights through data cleaning, analysis, visualization, and predictive modelling.
+This repository showcases my Python data analytics projects and my ability to transform raw data into actionable business insights.
 
-As I continue developing my skills in data analytics, data science, and machine learning, additional projects will be added to this portfolio.
+As I continue building my skills in data analytics, data science, and machine learning, more projects will be added.
 
 ---
 
 ## 👩🏽‍💻 Author
 
-**Nonyameko Portia Ntsele**  
-BSc Mathematics & Computer Science  
-Aspiring Data Analyst | Python | SQL | Data Visualization
+**Nonyameko Portia Ntsele**
