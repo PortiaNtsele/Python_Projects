@@ -1,0 +1,31 @@
+Dataset: Pizza Place Sales
+Source: https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
+Author: mysarahmadbhat
+License: CC BY-NC-SA 4.0
+Last Updated: 2022-10-01
+Description: A year's worth of sales from a fictitious pizza place (2015)
+
+Files in this dataset:
+- order_details.csv (1.31 MB) - Transactional line items with quantity per pizza
+- orders.csv - Order header information with date and time
+- pizza_types.csv - Pizza metadata (name, category, ingredients)
+- pizzas.csv - Pizza pricing by size (S, M, L, XL, XXL)
+
+Schema Relationship:
+orders.order_id → order_details.order_id
+order_details.pizza_id → pizzas.pizza_id
+pizzas.pizza_type_id → pizza_types.pizza_type_id
+
+Total Records:
+- orders: 21,350 rows
+- order_details: 48,620 rows
+- pizzas: 96 rows (4 sizes × 32 pizza types)
+- pizza_types: 32 rows
+
+Usage in this project:
+This dataset is used for Python-based analysis including:
+- Business KPI calculation
+- Statistical analysis and outlier detection
+- Market basket analysis for cross-sell opportunities
+- Time series decomposition and forecasting
+- Data visualization with Matplotlib and Seaborn
